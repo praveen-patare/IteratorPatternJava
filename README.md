@@ -1,2 +1,2 @@
 # IteratorPatternJava
-The project demonstrates the use of iterator pattern in Java
+The project demonstrates the use of iterator design pattern in Java
